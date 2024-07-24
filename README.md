@@ -67,13 +67,13 @@ git clone https://github.com/Mshandev/Foodies-Landing-Page
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd Quiz-App
+cd Foodies-Landing-Page
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream Quiz-App.git
+git remote add upstream Foodies-Landing-Page.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -117,3 +117,7 @@ git push -u origin <your_branch_name>
 **14** You did it! 🥳 Wait for your submission to be accepted and your PR to be merged.
 
 <br />
+
+## Contact
+
+If you want to contact me, please reach out to me [Linkedin](https://www.linkedin.com/in/muhammad-shan-full-stack-developer/)
